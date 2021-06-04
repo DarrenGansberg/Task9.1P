@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Restaurant App</string>
+    <string name="add_a_new_place">Add a new place</string>
+    <string name="show_all_on_map">Show all on map</string>
+    <string name="place_name">Place Name</string>
+    <string name="location">Location</string>
+    <string name="get_current_location">Get Current Location</string>
+    <string name="show_on_map">Show on map</string>
+    <string name="save">Save</string>
+    <string name="location_service_unavailable_title">Location service not available</string>
+    <string name="location_service_unavailable_msg">The Location service could not be found.
+        Check that the device supports the Location service and is enabled, before trying
+        again.</string>
+    <string name="location_service_not_enabled_title">Location service not enabled.</string>
+    <string name="location_service_not_enabled_msg">The Location service must be enabled
+         to use this feature. Check that the Location service is enabled on your device,
+         before trying again</string>
+    <string name="google_place_retrieval_error_title">Error retrieving Google Place data</string>.
+    <string name="google_place_retrieval_error_msg">Unable to retrieve Google Place data. Please
+    try again in a few moments. If this problem persists please contact the vendor.</string>
+    <string name="location_permission_error_title">Location permission not granted</string>
+    <string name="location_permission_error_msg">In order to find the current location, the
+    location permission must be granted. Please try again, and grant the location
+    permission, to retrieve the current location.</string>
+    <string name="no_location_error_title">No Location Selected</string>
+    <string name="no_location_error_msg">A location must be selected first.</string>
+    <string name="save_error_title">Data not saved</string>
+    <string name="save_error_msg">An error occurred whilst saving. Please contact
+    the vendor and report this problem.</string>
+    <string name="location_already_exists_title">Restaurant already saved</string>
+    <string name="location_already_exists_msg">Do you want to update the details of this
+    restaurant?</string>
+</resources>
